@@ -96,7 +96,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: joindevops/frontend:v1
+        image: ashokdevops123/frontend:v1
         imagePullPolicy: Always
         
         ports:
